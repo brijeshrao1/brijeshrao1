@@ -1,24 +1,40 @@
-# Hi There I am Brijesh Rao
+# Hi, I'm Brijesh Rao 👋
 
-<img align='left' width ='47%' height ='40%' src="https://github-readme-stats.vercel.app/api?username=brijeshrao1&theme=calm&show_icons=true"/>
-<img align='left' width ='47%' height ='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshrao1&layout=compact"/>
-
-<img align='left' src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align='left' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-<img align='left' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align='left' src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-
-<img align='left' src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align='left' src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img align='left' src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img align='left' src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+### MERN Stack Developer
 
 
+## 🚀 About Me
+
+I'm a passionate and dedicated MERN stack developer with a strong background in building full-stack web applications. I have experience working with MongoDB, Express.js, React.js, and Node.js to create efficient and scalable solutions.
+
+| 📈 GitHub Stats | 🏅 Top Languages |
+|--------------|---------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=brijeshrao1&theme=calm&show_icons=true" width="400" height="200"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshrao1&layout=compact&hide_border=true" width="400" height="200"> |
+
+## 🔧 Tools & Technologies
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+## 🏆 Projects
+
+- **[Project Name]**
+  - **Description**: [A brief description of the project]
+  - **Tech Stack**: [Technologies used]
+  - **GitHub**: [GitHub Repository URL]
+  - **Demo**: [Live Demo URL]
+
+
+
+
 
 
 
