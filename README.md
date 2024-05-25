@@ -1,8 +1,5 @@
 # Hi, I'm Brijesh Rao 👋
 
-### MERN Stack Developer
-
-
 ## 🚀 About Me
 
 I'm a passionate and dedicated MERN stack developer with a strong background in building full-stack web applications. I have experience working with MongoDB, Express.js, React.js, and Node.js to create efficient and scalable solutions.
